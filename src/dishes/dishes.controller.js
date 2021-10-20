@@ -139,6 +139,10 @@ module.exports = {
     dishHasImgUrl,
     create
   ],
+  read: [
+    dishExists, 
+    read
+  ],
   update: [
     dishExists,
     dishHasName,
@@ -149,7 +153,6 @@ module.exports = {
     dishIdMatches,
     update
   ],
-  read: [dishExists, read],
   list
 }
 
