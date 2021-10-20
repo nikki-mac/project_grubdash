@@ -203,8 +203,6 @@ function list(req, res, next) {
 }
 
 module.exports = {
-  list,
-  read: [orderExists, read],
   create: [
     orderHasDeliverTo,
     orderHasMobileNumber,
@@ -213,6 +211,10 @@ module.exports = {
     orderHasQuantity,
     orderQuantityIsInteger,
     create
+  ],
+  read: [
+    orderExists, 
+    read
   ],
   update: [
     orderExists,
@@ -232,5 +234,6 @@ module.exports = {
     orderExists,
     checkStatusForPending,
     destroy
-  ]
+  ],
+   list
 }
