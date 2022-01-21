@@ -26,11 +26,6 @@ Your server should follow the structure that you've learned in the program. Comp
 - In the ```src/orders/orders.router.js``` file, add two routes: ```/orders``` and ```/orders/:orderId```. Attach the handlers (create, read, update, delete, and list) exported from ```src/orders/orders.controller.js```.
 - Anytime you need to assign a new ```id``` to an order or dish, use the ```nextId``` function exported from ```src/utils/nextId.js```
 
-
-## 🌟 Demo
-
-🌟[Click here for live demo](https://starter-restaurant-reservation-peach.vercel.app/dashboard)🌟
-
 ## 💻 Tech Stack
 
 **Frontend:** JavaScript, React, CSS, Bootstrap
@@ -42,7 +37,7 @@ Your server should follow the structure that you've learned in the program. Comp
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/1fc7f916e2146e659f7934a73b103e25-home.png)
 
 
 ## Run Locally
