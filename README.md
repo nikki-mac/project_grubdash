@@ -35,6 +35,11 @@ Your server should follow the structure that you've learned in the program. Comp
 **Deployment:** Vercel
 
 
+## 🌟 Demo
+
+🌟[Click here for live demo](https://starter-grub-dash-front-end.vercel.app/dashboard)🌟
+
+
 ## Screenshots
 
 ![App Screenshot](https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/1fc7f916e2146e659f7934a73b103e25-home.png)
