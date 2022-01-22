@@ -37,7 +37,7 @@ Your server should follow the structure that you've learned in the program. Comp
 
 ## 🌟 Demo
 
-🌟[Click here for live demo](https://starter-grub-dash-front-end.vercel.app/dashboard)🌟
+🌟[Click here for live demo](https://starter-grub-dash-front-end.vercel.app/)🌟
 
 
 ## Screenshots
